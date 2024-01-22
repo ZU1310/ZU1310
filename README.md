@@ -20,7 +20,12 @@
 
 - 💬 Ask me about **Python, R, Machine Learning, Statistics, Data Visualization, Statistical Analysis**
 
-- 📫 How to reach me **zeeshanfirdousi7086@gmail.com**
+- 📫 How to reach me **🌐 Connect with Me**
+
+- **[LinkedIn](https://www.linkedin.com/in/zeeshanfirdousi/)**
+- **[Portfolio](https://www.datascienceportfol.io/)**
+- **Email: zeeshanfirdousi7086@gmail.com**
+- **Phone: +44 7884984717**
 
 - 📄 Know about my experiences [https://tr.ee/Oi7TeiL0J0](https://tr.ee/Oi7TeiL0J0)
 

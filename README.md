@@ -1,6 +1,6 @@
 <img aling="center" alt="data" width= "500" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 <h1 align="center">Hi 👋, I'm Zeeshan Firdousi</h1>
-<h3 align="center">A Data Science Enthusiast</h3>
+<h2 align="center">A Data Science</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zu1310&label=Profile%20views&color=0e75b6&style=flat" alt="zu1310" /> </p>
 
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **HealthCare**
 
-- 🌱 I’m currently learning **Flask,AWS**
+- 🌱 I’m currently learning **AWS, LLM AND GENAI**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 🤝 I’m looking for help with **Job Guidance**
+- 🤝 I’m looking for help with **Job Oppertunity**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/](https://www.datascienceportfol.io/)
 

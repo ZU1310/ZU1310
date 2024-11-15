@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [Quora, Your Quotes](Quora, Your Quotes)
 
-- 💬 Ask me about **Python, R, Machine Learning, Statistics, Data Visualization, Statistical Analysis, NLP, Python Libraries(Pandas, Numpy, Matplotlib, Seaborn,NLTK**
+- 💬 Ask me about **Python, R, Machine Learning, Statistics, Data Visualization, Statistical Analysis, NLP, Python Libraries(Pandas, Numpy, Matplotlib, Seaborn,NLTK)**
 
 - 📫 How to reach me **🌐 Connect with Me**
 

@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/zeeshanfirdous2" target="blank"><img src="https://img.shields.io/twitter/follow/zeeshanfirdous2?logo=twitter&style=for-the-badge" alt="zeeshanfirdous2" /></a> </p>
 
-- 🔭 I’m currently working on **HealthCare**
+- 🔭 I’m currently working on **Building a recommender System**
 
-- 🌱 I’m currently learning **AWS, LLM AND GENAI**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 🤝 I’m looking for help with **Job Oppertunity**
+- 🤝 I’m looking for help with **Job Opportunity**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/](https://www.datascienceportfol.io/)
 
-- 📝 I regularly write articles on [Quora, Your Quotes](Quora, Your Quotes)
+- 📝 I regularly write articles on [LinkedIn, Medium,Quora, Your Quotes](Quora, Your Quotes)
 
 - 💬 Ask me about **Python, R, Machine Learning, Statistics, Data Visualization, Statistical Analysis, NLP, Python Libraries(Pandas, Numpy, Matplotlib, Seaborn,NLTK)**
 

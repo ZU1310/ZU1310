@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Building a recommender System**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Nexus AI Data Labs**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 

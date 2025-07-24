@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/zeeshanfirdous2" target="blank"><img src="https://img.shields.io/twitter/follow/zeeshanfirdous2?logo=twitter&style=for-the-badge" alt="zeeshanfirdous2" /></a> </p>
 
-- 🔭 I’m currently working on **Building a recommender System**
+- 🔭 I’m currently working on **Nexus AI Data Labs**
 
-- 🌱 I’m currently learning **Nexus AI Data Labs**
+- 🌱 I’m currently learning **Integration of End-to-End Project**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [LinkedIn, Medium,Quora, Your Quotes](Quora, Your Quotes)
 
-- 💬 Ask me about **Python, R, Machine Learning, Statistics, Data Visualization, Statistical Analysis, NLP, Python Libraries(Pandas, Numpy, Matplotlib, Seaborn,NLTK)**
+- 💬 Ask me about **Python, R, Machine Learning, Statistics, Data Visualization, Statistical Analysis, NLP, Python Libraries(Pandas, Numpy, Matplotlib, Seaborn,NLTK), Docker, Airflow,MLFlow,DVC,DasgHub**
 
 - 📫 How to reach me **🌐 Connect with Me**
 

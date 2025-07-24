@@ -1,6 +1,6 @@
 <img aling="center" alt="data" width= "500" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 <h1 align="center">Hi 👋, I'm Zeeshan Firdousi</h1>
-<h2 align="center">A Data Science</h2>
+<h2 align="center">Data Scientist</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zu1310&label=Profile%20views&color=0e75b6&style=flat" alt="zu1310" /> </p>
 

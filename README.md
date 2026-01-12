@@ -14,36 +14,36 @@
 </p>
 
 ### What I’m working on
-- 🔭 Building **Nexus AI Data Labs** — practical AI + data systems that drive measurable business outcomes  
-- 🚀 Shipping **Timeless Data** — a no-code web scraping MVP that turns messy web content into usable datasets  
-- 📈 Applying **product analytics + funnel analysis + behavioral segmentation** to improve activation and conversion
+-  Building **Nexus AI Data Labs** — practical AI + data systems that drive measurable business outcomes  
+-  Shipping **Timeless Data** — a no-code web scraping MVP that turns messy web content into usable datasets  
+-  Applying **product analytics + funnel analysis + behavioral segmentation** to improve activation and conversion
 
 ### What I do
-- 🧠 **AI & Data Consulting (SMEs / Startups):** data readiness → ML/LLM solutions → deployment & adoption  
-- 🛠️ **End-to-end delivery:** data pipelines, modeling, evaluation, automation, and MLOps (CI/CD, monitoring, reproducibility)
+-  **AI & Data Consulting (SMEs / Startups):** data readiness → ML/LLM solutions → deployment & adoption  
+-  **End-to-end delivery:** data pipelines, modeling, evaluation, automation, and MLOps (CI/CD, monitoring, reproducibility)
 
 ### What I’m currently improving
-- 🌱 **Production-grade integration** (clean pipelines, scalable extraction, reliability, and deployable ML systems)
+-  **Production-grade integration** (clean pipelines, scalable extraction, reliability, and deployable ML systems)
 
 ### Open to
-- 🤝 **Pilot projects / consulting engagements**
-- 👯 Collaboration on **data/ML/NLP/MLOps** projects
-- 🎤 Speaking / workshops on AI adoption & real-world implementation
+-  **Pilot projects / consulting engagements**
+-  Collaboration on **data/ML/NLP/MLOps** projects
+-  Speaking / workshops on AI adoption & real-world implementation
 
 ### Portfolio & writing
-- 👨‍💻 Projects: https://www.datascienceportfol.io/
-- 📝 Writing: LinkedIn • Medium (and more)
+-  Projects: https://www.datascienceportfol.io/
+-  Writing: LinkedIn • Medium (and more)
 
 ### Ask me about
-- 💬 **Python, SQL, Machine Learning, Statistics, NLP, Data Visualization**
-- ⚙️ **MLOps / ML Engineering:** Docker, Airflow, MLflow, DVC, CI/CD, GitHub Actions  
-- 📊 **Analytics:** EDA, feature engineering, segmentation, funnel optimization, A/B testing concepts
+-  **Python, SQL, Machine Learning, Statistics, NLP, Data Visualization**
+-  **MLOps / ML Engineering:** Docker, Airflow, MLflow, DVC, CI/CD, GitHub Actions  
+-  **Analytics:** EDA, feature engineering, segmentation, funnel optimization, A/B testing concepts
 
 ### How to reach me
-- 🔗 LinkedIn: https://www.linkedin.com/in/zeeshanfirdousi/
-- 🌐 Portfolio: https://www.datascienceportfol.io/
-- 📧 Email: zeeshanfirdousi7086@gmail.com
-- 📄 Experience: https://tr.ee/Oi7TeiL0J0
+-  LinkedIn: https://www.linkedin.com/in/zeeshanfirdousi/
+-  Portfolio: https://www.datascienceportfol.io/
+-  Email: zeeshanfirdousi7086@gmail.com
+-  Experience: https://tr.ee/Oi7TeiL0J0
 
 ---
 
